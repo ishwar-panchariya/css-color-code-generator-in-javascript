@@ -1,4 +1,4 @@
-# CSS Color Code Generator in Pure (Vanilla) Javascript - No Frameworks
+# CSS Color Code Generator in Javascript - No Frameworks
 
 This is one of the important project used by every UI designer and developer. This project helps to the developer to choose application color theme.
 
